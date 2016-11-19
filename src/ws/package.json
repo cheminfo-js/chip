@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "name": "serverstats",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/einaros/ws.git"
+  },
+  "engines": {
+    "node": ">0.4.0"
+  },
+  "dependencies": {
+    "chip-io": "^2.0.2",
+    "express": "3.x",
+    "johnny-five": "^0.10.6",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
